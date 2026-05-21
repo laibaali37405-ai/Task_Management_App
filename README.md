@@ -1,17 +1,28 @@
-# task_management_app
+# Task Management App 🚀
 
-A new Flutter project.
+A clean, efficient, and user-friendly **Task Management Application** built with **Flutter**. This app helps users stay organized by managing their daily tasks seamlessly.
 
-## Getting Started
+## ✨ Key Features
+- **Add Tasks:** Easily create new tasks to keep track of your goals.
+- **Delete Tasks:** Remove completed or unnecessary tasks with a single tap.
+- **Clean UI:** Designed with a focus on simplicity and user experience.
+- **Cross-Platform:** Built with Flutter, ready to run on Android and iOS.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Tech Stack
+- **Framework:** Flutter
+- **Language:** Dart
+- **Architecture:** Clean & Modular approach
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 📱 App Preview
+*(Yahan apni App ka Screenshot lagayein - niche dekhein kaise)*
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🎥 Video Demo
+[Watch the App Demo Video Here](YAHAN_APNA_YOUTUBE_LINK_DAALEIN)
+
+## 🤝 Contact
+- **GitHub:** [laibaali37405-ai](https://github.com/laibaali37405-ai)
+- **LinkedIn:** www.linkedin.com/in/
+laiba-amjad-7004b333b
+---
+
