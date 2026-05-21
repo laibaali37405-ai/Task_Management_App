@@ -21,6 +21,8 @@ A clean, efficient, and user-friendly **Task Management Application** built with
 ![create Profile](https://github.com/laibaali37405-ai/Task_Management_App/blob/main/code%2Bscreens/create%20profile.jpeg?raw=true)
 ![dashboard](https://github.com/laibaali37405-ai/Task_Management_App/blob/main/code%2Bscreens/dashboard.jpeg?raw=true)
 ![invalid credentials](https://github.com/laibaali37405-ai/Task_Management_App/blob/main/code%2Bscreens/invalid%20credentials.jpeg?raw=true)
+![login screen](https://github.com/laibaali37405-ai/Task_Management_App/blob/main/code%2Bscreens/login%20screen.jpeg?raw=true)
+
 
 
 
