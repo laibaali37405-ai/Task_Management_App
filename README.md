@@ -35,6 +35,8 @@ A clean, efficient, and user-friendly **Task Management Application** built with
 ## 🎥 Video Demo
 [Watch the App Demo Video Here]https://youtu.be/bAgS_gfvEE8
 
+Contact Me: [fiver link](https://www.fiverr.com/laibadesignhub_.)
+
 ## 🤝 Contact
 - **GitHub:** [laibaali37405-ai](https://github.com/laibaali37405-ai)
 - **LinkedIn:** www.linkedin.com/in/
