@@ -15,7 +15,8 @@ A clean, efficient, and user-friendly **Task Management Application** built with
 - **Architecture:** Clean & Modular approach
 
 ## 📱 App Preview
-*(Yahan apni App ka Screenshot lagayein - niche dekhein kaise)*
+![ERD DIAGRAM] (https://github.com/laibaali37405-ai/Task_Management_App/blob/main/code%2Bscreens/ERD_%20Task%20App.png?raw=true)
+
 
 ## 🎥 Video Demo
 [Watch the App Demo Video Here]https://youtu.be/bAgS_gfvEE8
