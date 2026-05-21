@@ -15,8 +15,9 @@ A clean, efficient, and user-friendly **Task Management Application** built with
 - **Architecture:** Clean & Modular approach
 
 ## 📱 App Preview
-![ERD DIAGRAM] (https://github.com/laibaali37405-ai/Task_Management_App/blob/main/code%2Bscreens/ERD_%20Task%20App.png?raw=true)
-![ANALYSIS GRAPH] (https://github.com/laibaali37405-ai/Task_Management_App/blob/main/code%2Bscreens/analysis%20graph.jpeg?raw=true)
+![ERD DIAGRAM](https://github.com/laibaali37405-ai/Task_Management_App/blob/main/code%2Bscreens/ERD_%20Task%20App.png?raw=true)
+![ANALYSIS GRAPH](https://github.com/laibaali37405-ai/Task_Management_App/blob/main/code%2Bscreens/analysis%20graph.jpeg?raw=true)
+![class diagram](https://github.com/laibaali37405-ai/Task_Management_App/blob/main/code%2Bscreens/class%20diagram%20Task%20App.png?raw=true)
 
 
 
